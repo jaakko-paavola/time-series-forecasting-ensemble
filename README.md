@@ -3,7 +3,7 @@ Read in a time series and fit in it: 1) seasonal regression, 2) seasonal regress
 
 (still work-in-progress)
 
-![image](https://github.com/jaakko-paavola/time-series-forecasting-ensemble-with-R/assets/7263106/d75fe861-79d1-4a90-8890-f3c320e31820)
+![image](https://github.com/jaakko-paavola/time-series-forecasting-ensemble-with-R/assets/7263106/153e663d-d5d7-49a4-a7f6-c6cc662e7936)
 
 ![image](https://github.com/jaakko-paavola/time-series-forecasting-ensemble-with-R/assets/7263106/369673c4-ed14-45ff-9896-59f28a92a80b)
 

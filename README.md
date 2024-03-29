@@ -1,5 +1,5 @@
 # time-series-forecasting-ensemble
-Read in a time series and fit in it: 1) seasonal regression, 2) seasonal regression + trend, 3) Holt-Winters multiplicative, 4) Holt-Winters additive, 5) ARIMA, 6) ARIMA with box-cox transformation, 7) ETS, and 8) TBATS.
+Read in a time series and fit in it: 1) seasonal regression, 2) seasonal regression + trend, 3) ARIMA, 4) ARIMA with Box-Cox transformation, 5) Holt-Winters multiplicative, 6) Holt-Winters additive, 7) ETS, and 8) TBATS.
 
 ![image](https://github.com/jaakko-paavola/time-series-forecasting-ensemble-with-R/assets/7263106/d75fe861-79d1-4a90-8890-f3c320e31820)
 

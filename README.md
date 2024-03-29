@@ -13,8 +13,6 @@ Read in a time series and fit in it: 1) seasonal regression, 2) seasonal regress
 
 ![image](https://github.com/jaakko-paavola/time-series-forecasting-ensemble-with-R/assets/7263106/e1c6a351-aa81-4d9b-a894-dbe360deaf04)
 
-![image](https://github.com/jaakko-paavola/time-series-forecasting-ensemble-with-R/assets/7263106/68468840-c954-4943-9941-cdb13632c764)
-
 ![image](https://github.com/jaakko-paavola/time-series-forecasting-ensemble-with-R/assets/7263106/b369015f-841b-406a-8778-0aa1a653b986)
 
 
